@@ -1,4 +1,4 @@
-📌 Sobre o projeto 10/11/2026
+📌 Sobre o projeto 10/11/2026.
 
 O objetivo deste laboratório foi praticar comandos de diagnóstico de rede e entender como aplicá-los em cenários de suporte a clientes e administração de infraestrutura.
 
